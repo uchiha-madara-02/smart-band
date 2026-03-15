@@ -2,7 +2,7 @@
 
 Dự án thiết bị đeo tay thông minh (Smart Band) hỗ trợ theo dõi sức khỏe và cảnh báo qua Telegram.
 
-## 🛠 Linh kiện thiết bị (Components)
+## 🛠 Linh kiện thiết bị
 
 Dưới đây là danh sách các linh kiện chính được sử dụng trong dự án:
 
